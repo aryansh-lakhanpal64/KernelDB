@@ -1,0 +1,1001 @@
+student_id,name,course,marks,attendance
+1,Aarav Kapoor,IT,45.0,60.0
+2,Aditi Sharma,CSE,62.0,73.0
+3,Ananya Rao,Cyber Security,79.0,86.0
+4,Arjun Joshi,Data Science,96.0,99.0
+5,Diya Verma,AI-ML,57.0,71.0
+6,Ishaan Mehta,ECE,74.0,84.0
+7,Kabir Gupta,IT,91.0,97.0
+8,Meera Singh,CSE,52.0,69.0
+9,Neha Khan,Cyber Security,69.0,82.0
+10,Rohan Chauhan,Data Science,86.0,95.0
+11,Sana Kapoor,AI-ML,47.0,67.0
+12,Vivaan Sharma,ECE,64.0,80.0
+13,Aarav Rao,IT,81.0,93.0
+14,Aditi Joshi,CSE,98.0,65.0
+15,Ananya Verma,Cyber Security,59.0,78.0
+16,Arjun Mehta,Data Science,76.0,91.0
+17,Diya Gupta,AI-ML,93.0,63.0
+18,Ishaan Singh,ECE,54.0,76.0
+19,Kabir Khan,IT,71.0,89.0
+20,Meera Chauhan,CSE,88.0,61.0
+21,Neha Kapoor,Cyber Security,49.0,74.0
+22,Rohan Sharma,Data Science,66.0,87.0
+23,Sana Rao,AI-ML,83.0,100.0
+24,Vivaan Joshi,ECE,100.0,72.0
+25,Aarav Verma,IT,61.0,85.0
+26,Aditi Mehta,CSE,78.0,98.0
+27,Ananya Gupta,Cyber Security,95.0,70.0
+28,Arjun Singh,Data Science,56.0,83.0
+29,Diya Khan,AI-ML,73.0,96.0
+30,Ishaan Chauhan,ECE,90.0,68.0
+31,Kabir Kapoor,IT,51.0,81.0
+32,Meera Sharma,CSE,68.0,94.0
+33,Neha Rao,Cyber Security,85.0,66.0
+34,Rohan Joshi,Data Science,46.0,79.0
+35,Sana Verma,AI-ML,63.0,92.0
+36,Vivaan Mehta,ECE,80.0,64.0
+37,Aarav Gupta,IT,97.0,77.0
+38,Aditi Singh,CSE,58.0,90.0
+39,Ananya Khan,Cyber Security,75.0,62.0
+40,Arjun Chauhan,Data Science,92.0,75.0
+41,Diya Kapoor,AI-ML,53.0,88.0
+42,Ishaan Sharma,ECE,70.0,60.0
+43,Kabir Rao,IT,87.0,73.0
+44,Meera Joshi,CSE,48.0,86.0
+45,Neha Verma,Cyber Security,65.0,99.0
+46,Rohan Mehta,Data Science,82.0,71.0
+47,Sana Gupta,AI-ML,99.0,84.0
+48,Vivaan Singh,ECE,60.0,97.0
+49,Aarav Khan,IT,77.0,69.0
+50,Aditi Chauhan,CSE,94.0,82.0
+51,Ananya Kapoor,Cyber Security,55.0,95.0
+52,Arjun Sharma,Data Science,72.0,67.0
+53,Diya Rao,AI-ML,89.0,80.0
+54,Ishaan Joshi,ECE,50.0,93.0
+55,Kabir Verma,IT,67.0,65.0
+56,Meera Mehta,CSE,84.0,78.0
+57,Neha Gupta,Cyber Security,45.0,91.0
+58,Rohan Singh,Data Science,62.0,63.0
+59,Sana Khan,AI-ML,79.0,76.0
+60,Vivaan Chauhan,ECE,96.0,89.0
+61,Aarav Kapoor,IT,57.0,61.0
+62,Aditi Sharma,CSE,74.0,74.0
+63,Ananya Rao,Cyber Security,91.0,87.0
+64,Arjun Joshi,Data Science,52.0,100.0
+65,Diya Verma,AI-ML,69.0,72.0
+66,Ishaan Mehta,ECE,86.0,85.0
+67,Kabir Gupta,IT,47.0,98.0
+68,Meera Singh,CSE,64.0,70.0
+69,Neha Khan,Cyber Security,81.0,83.0
+70,Rohan Chauhan,Data Science,98.0,96.0
+71,Sana Kapoor,AI-ML,59.0,68.0
+72,Vivaan Sharma,ECE,76.0,81.0
+73,Aarav Rao,IT,93.0,94.0
+74,Aditi Joshi,CSE,54.0,66.0
+75,Ananya Verma,Cyber Security,71.0,79.0
+76,Arjun Mehta,Data Science,88.0,92.0
+77,Diya Gupta,AI-ML,49.0,64.0
+78,Ishaan Singh,ECE,66.0,77.0
+79,Kabir Khan,IT,83.0,90.0
+80,Meera Chauhan,CSE,100.0,62.0
+81,Neha Kapoor,Cyber Security,61.0,75.0
+82,Rohan Sharma,Data Science,78.0,88.0
+83,Sana Rao,AI-ML,95.0,60.0
+84,Vivaan Joshi,ECE,56.0,73.0
+85,Aarav Verma,IT,73.0,86.0
+86,Aditi Mehta,CSE,90.0,99.0
+87,Ananya Gupta,Cyber Security,51.0,71.0
+88,Arjun Singh,Data Science,68.0,84.0
+89,Diya Khan,AI-ML,85.0,97.0
+90,Ishaan Chauhan,ECE,46.0,69.0
+91,Kabir Kapoor,IT,63.0,82.0
+92,Meera Sharma,CSE,80.0,95.0
+93,Neha Rao,Cyber Security,97.0,67.0
+94,Rohan Joshi,Data Science,58.0,80.0
+95,Sana Verma,AI-ML,75.0,93.0
+96,Vivaan Mehta,ECE,92.0,65.0
+97,Aarav Gupta,IT,53.0,78.0
+98,Aditi Singh,CSE,70.0,91.0
+99,Ananya Khan,Cyber Security,87.0,63.0
+100,Arjun Chauhan,Data Science,48.0,76.0
+101,Diya Kapoor,AI-ML,65.0,89.0
+102,Ishaan Sharma,ECE,82.0,61.0
+103,Kabir Rao,IT,99.0,74.0
+104,Meera Joshi,CSE,60.0,87.0
+105,Neha Verma,Cyber Security,77.0,100.0
+106,Rohan Mehta,Data Science,94.0,72.0
+107,Sana Gupta,AI-ML,55.0,85.0
+108,Vivaan Singh,ECE,72.0,98.0
+109,Aarav Khan,IT,89.0,70.0
+110,Aditi Chauhan,CSE,50.0,83.0
+111,Ananya Kapoor,Cyber Security,67.0,96.0
+112,Arjun Sharma,Data Science,84.0,68.0
+113,Diya Rao,AI-ML,45.0,81.0
+114,Ishaan Joshi,ECE,62.0,94.0
+115,Kabir Verma,IT,79.0,66.0
+116,Meera Mehta,CSE,96.0,79.0
+117,Neha Gupta,Cyber Security,57.0,92.0
+118,Rohan Singh,Data Science,74.0,64.0
+119,Sana Khan,AI-ML,91.0,77.0
+120,Vivaan Chauhan,ECE,52.0,90.0
+121,Aarav Kapoor,IT,69.0,62.0
+122,Aditi Sharma,CSE,86.0,75.0
+123,Ananya Rao,Cyber Security,47.0,88.0
+124,Arjun Joshi,Data Science,64.0,60.0
+125,Diya Verma,AI-ML,81.0,73.0
+126,Ishaan Mehta,ECE,98.0,86.0
+127,Kabir Gupta,IT,59.0,99.0
+128,Meera Singh,CSE,76.0,71.0
+129,Neha Khan,Cyber Security,93.0,84.0
+130,Rohan Chauhan,Data Science,54.0,97.0
+131,Sana Kapoor,AI-ML,71.0,69.0
+132,Vivaan Sharma,ECE,88.0,82.0
+133,Aarav Rao,IT,49.0,95.0
+134,Aditi Joshi,CSE,66.0,67.0
+135,Ananya Verma,Cyber Security,83.0,80.0
+136,Arjun Mehta,Data Science,100.0,93.0
+137,Diya Gupta,AI-ML,61.0,65.0
+138,Ishaan Singh,ECE,78.0,78.0
+139,Kabir Khan,IT,95.0,91.0
+140,Meera Chauhan,CSE,56.0,63.0
+141,Neha Kapoor,Cyber Security,73.0,76.0
+142,Rohan Sharma,Data Science,90.0,89.0
+143,Sana Rao,AI-ML,51.0,61.0
+144,Vivaan Joshi,ECE,68.0,74.0
+145,Aarav Verma,IT,85.0,87.0
+146,Aditi Mehta,CSE,46.0,100.0
+147,Ananya Gupta,Cyber Security,63.0,72.0
+148,Arjun Singh,Data Science,80.0,85.0
+149,Diya Khan,AI-ML,97.0,98.0
+150,Ishaan Chauhan,ECE,58.0,70.0
+151,Kabir Kapoor,IT,75.0,83.0
+152,Meera Sharma,CSE,92.0,96.0
+153,Neha Rao,Cyber Security,53.0,68.0
+154,Rohan Joshi,Data Science,70.0,81.0
+155,Sana Verma,AI-ML,87.0,94.0
+156,Vivaan Mehta,ECE,48.0,66.0
+157,Aarav Gupta,IT,65.0,79.0
+158,Aditi Singh,CSE,82.0,92.0
+159,Ananya Khan,Cyber Security,99.0,64.0
+160,Arjun Chauhan,Data Science,60.0,77.0
+161,Diya Kapoor,AI-ML,77.0,90.0
+162,Ishaan Sharma,ECE,94.0,62.0
+163,Kabir Rao,IT,55.0,75.0
+164,Meera Joshi,CSE,72.0,88.0
+165,Neha Verma,Cyber Security,89.0,60.0
+166,Rohan Mehta,Data Science,50.0,73.0
+167,Sana Gupta,AI-ML,67.0,86.0
+168,Vivaan Singh,ECE,84.0,99.0
+169,Aarav Khan,IT,45.0,71.0
+170,Aditi Chauhan,CSE,62.0,84.0
+171,Ananya Kapoor,Cyber Security,79.0,97.0
+172,Arjun Sharma,Data Science,96.0,69.0
+173,Diya Rao,AI-ML,57.0,82.0
+174,Ishaan Joshi,ECE,74.0,95.0
+175,Kabir Verma,IT,91.0,67.0
+176,Meera Mehta,CSE,52.0,80.0
+177,Neha Gupta,Cyber Security,69.0,93.0
+178,Rohan Singh,Data Science,86.0,65.0
+179,Sana Khan,AI-ML,47.0,78.0
+180,Vivaan Chauhan,ECE,64.0,91.0
+181,Aarav Kapoor,IT,81.0,63.0
+182,Aditi Sharma,CSE,98.0,76.0
+183,Ananya Rao,Cyber Security,59.0,89.0
+184,Arjun Joshi,Data Science,76.0,61.0
+185,Diya Verma,AI-ML,93.0,74.0
+186,Ishaan Mehta,ECE,54.0,87.0
+187,Kabir Gupta,IT,71.0,100.0
+188,Meera Singh,CSE,88.0,72.0
+189,Neha Khan,Cyber Security,49.0,85.0
+190,Rohan Chauhan,Data Science,66.0,98.0
+191,Sana Kapoor,AI-ML,83.0,70.0
+192,Vivaan Sharma,ECE,100.0,83.0
+193,Aarav Rao,IT,61.0,96.0
+194,Aditi Joshi,CSE,78.0,68.0
+195,Ananya Verma,Cyber Security,95.0,81.0
+196,Arjun Mehta,Data Science,56.0,94.0
+197,Diya Gupta,AI-ML,73.0,66.0
+198,Ishaan Singh,ECE,90.0,79.0
+199,Kabir Khan,IT,51.0,92.0
+200,Meera Chauhan,CSE,68.0,64.0
+201,Neha Kapoor,Cyber Security,85.0,77.0
+202,Rohan Sharma,Data Science,46.0,90.0
+203,Sana Rao,AI-ML,63.0,62.0
+204,Vivaan Joshi,ECE,80.0,75.0
+205,Aarav Verma,IT,97.0,88.0
+206,Aditi Mehta,CSE,58.0,60.0
+207,Ananya Gupta,Cyber Security,75.0,73.0
+208,Arjun Singh,Data Science,92.0,86.0
+209,Diya Khan,AI-ML,53.0,99.0
+210,Ishaan Chauhan,ECE,70.0,71.0
+211,Kabir Kapoor,IT,87.0,84.0
+212,Meera Sharma,CSE,48.0,97.0
+213,Neha Rao,Cyber Security,65.0,69.0
+214,Rohan Joshi,Data Science,82.0,82.0
+215,Sana Verma,AI-ML,99.0,95.0
+216,Vivaan Mehta,ECE,60.0,67.0
+217,Aarav Gupta,IT,77.0,80.0
+218,Aditi Singh,CSE,94.0,93.0
+219,Ananya Khan,Cyber Security,55.0,65.0
+220,Arjun Chauhan,Data Science,72.0,78.0
+221,Diya Kapoor,AI-ML,89.0,91.0
+222,Ishaan Sharma,ECE,50.0,63.0
+223,Kabir Rao,IT,67.0,76.0
+224,Meera Joshi,CSE,84.0,89.0
+225,Neha Verma,Cyber Security,45.0,61.0
+226,Rohan Mehta,Data Science,62.0,74.0
+227,Sana Gupta,AI-ML,79.0,87.0
+228,Vivaan Singh,ECE,96.0,100.0
+229,Aarav Khan,IT,57.0,72.0
+230,Aditi Chauhan,CSE,74.0,85.0
+231,Ananya Kapoor,Cyber Security,91.0,98.0
+232,Arjun Sharma,Data Science,52.0,70.0
+233,Diya Rao,AI-ML,69.0,83.0
+234,Ishaan Joshi,ECE,86.0,96.0
+235,Kabir Verma,IT,47.0,68.0
+236,Meera Mehta,CSE,64.0,81.0
+237,Neha Gupta,Cyber Security,81.0,94.0
+238,Rohan Singh,Data Science,98.0,66.0
+239,Sana Khan,AI-ML,59.0,79.0
+240,Vivaan Chauhan,ECE,76.0,92.0
+241,Aarav Kapoor,IT,93.0,64.0
+242,Aditi Sharma,CSE,54.0,77.0
+243,Ananya Rao,Cyber Security,71.0,90.0
+244,Arjun Joshi,Data Science,88.0,62.0
+245,Diya Verma,AI-ML,49.0,75.0
+246,Ishaan Mehta,ECE,66.0,88.0
+247,Kabir Gupta,IT,83.0,60.0
+248,Meera Singh,CSE,100.0,73.0
+249,Neha Khan,Cyber Security,61.0,86.0
+250,Rohan Chauhan,Data Science,78.0,99.0
+251,Sana Kapoor,AI-ML,95.0,71.0
+252,Vivaan Sharma,ECE,56.0,84.0
+253,Aarav Rao,IT,73.0,97.0
+254,Aditi Joshi,CSE,90.0,69.0
+255,Ananya Verma,Cyber Security,51.0,82.0
+256,Arjun Mehta,Data Science,68.0,95.0
+257,Diya Gupta,AI-ML,85.0,67.0
+258,Ishaan Singh,ECE,46.0,80.0
+259,Kabir Khan,IT,63.0,93.0
+260,Meera Chauhan,CSE,80.0,65.0
+261,Neha Kapoor,Cyber Security,97.0,78.0
+262,Rohan Sharma,Data Science,58.0,91.0
+263,Sana Rao,AI-ML,75.0,63.0
+264,Vivaan Joshi,ECE,92.0,76.0
+265,Aarav Verma,IT,53.0,89.0
+266,Aditi Mehta,CSE,70.0,61.0
+267,Ananya Gupta,Cyber Security,87.0,74.0
+268,Arjun Singh,Data Science,48.0,87.0
+269,Diya Khan,AI-ML,65.0,100.0
+270,Ishaan Chauhan,ECE,82.0,72.0
+271,Kabir Kapoor,IT,99.0,85.0
+272,Meera Sharma,CSE,60.0,98.0
+273,Neha Rao,Cyber Security,77.0,70.0
+274,Rohan Joshi,Data Science,94.0,83.0
+275,Sana Verma,AI-ML,55.0,96.0
+276,Vivaan Mehta,ECE,72.0,68.0
+277,Aarav Gupta,IT,89.0,81.0
+278,Aditi Singh,CSE,50.0,94.0
+279,Ananya Khan,Cyber Security,67.0,66.0
+280,Arjun Chauhan,Data Science,84.0,79.0
+281,Diya Kapoor,AI-ML,45.0,92.0
+282,Ishaan Sharma,ECE,62.0,64.0
+283,Kabir Rao,IT,79.0,77.0
+284,Meera Joshi,CSE,96.0,90.0
+285,Neha Verma,Cyber Security,57.0,62.0
+286,Rohan Mehta,Data Science,74.0,75.0
+287,Sana Gupta,AI-ML,91.0,88.0
+288,Vivaan Singh,ECE,52.0,60.0
+289,Aarav Khan,IT,69.0,73.0
+290,Aditi Chauhan,CSE,86.0,86.0
+291,Ananya Kapoor,Cyber Security,47.0,99.0
+292,Arjun Sharma,Data Science,64.0,71.0
+293,Diya Rao,AI-ML,81.0,84.0
+294,Ishaan Joshi,ECE,98.0,97.0
+295,Kabir Verma,IT,59.0,69.0
+296,Meera Mehta,CSE,76.0,82.0
+297,Neha Gupta,Cyber Security,93.0,95.0
+298,Rohan Singh,Data Science,54.0,67.0
+299,Sana Khan,AI-ML,71.0,80.0
+300,Vivaan Chauhan,ECE,88.0,93.0
+301,Aarav Kapoor,IT,49.0,65.0
+302,Aditi Sharma,CSE,66.0,78.0
+303,Ananya Rao,Cyber Security,83.0,91.0
+304,Arjun Joshi,Data Science,100.0,63.0
+305,Diya Verma,AI-ML,61.0,76.0
+306,Ishaan Mehta,ECE,78.0,89.0
+307,Kabir Gupta,IT,95.0,61.0
+308,Meera Singh,CSE,56.0,74.0
+309,Neha Khan,Cyber Security,73.0,87.0
+310,Rohan Chauhan,Data Science,90.0,100.0
+311,Sana Kapoor,AI-ML,51.0,72.0
+312,Vivaan Sharma,ECE,68.0,85.0
+313,Aarav Rao,IT,85.0,98.0
+314,Aditi Joshi,CSE,46.0,70.0
+315,Ananya Verma,Cyber Security,63.0,83.0
+316,Arjun Mehta,Data Science,80.0,96.0
+317,Diya Gupta,AI-ML,97.0,68.0
+318,Ishaan Singh,ECE,58.0,81.0
+319,Kabir Khan,IT,75.0,94.0
+320,Meera Chauhan,CSE,92.0,66.0
+321,Neha Kapoor,Cyber Security,53.0,79.0
+322,Rohan Sharma,Data Science,70.0,92.0
+323,Sana Rao,AI-ML,87.0,64.0
+324,Vivaan Joshi,ECE,48.0,77.0
+325,Aarav Verma,IT,65.0,90.0
+326,Aditi Mehta,CSE,82.0,62.0
+327,Ananya Gupta,Cyber Security,99.0,75.0
+328,Arjun Singh,Data Science,60.0,88.0
+329,Diya Khan,AI-ML,77.0,60.0
+330,Ishaan Chauhan,ECE,94.0,73.0
+331,Kabir Kapoor,IT,55.0,86.0
+332,Meera Sharma,CSE,72.0,99.0
+333,Neha Rao,Cyber Security,89.0,71.0
+334,Rohan Joshi,Data Science,50.0,84.0
+335,Sana Verma,AI-ML,67.0,97.0
+336,Vivaan Mehta,ECE,84.0,69.0
+337,Aarav Gupta,IT,45.0,82.0
+338,Aditi Singh,CSE,62.0,95.0
+339,Ananya Khan,Cyber Security,79.0,67.0
+340,Arjun Chauhan,Data Science,96.0,80.0
+341,Diya Kapoor,AI-ML,57.0,93.0
+342,Ishaan Sharma,ECE,74.0,65.0
+343,Kabir Rao,IT,91.0,78.0
+344,Meera Joshi,CSE,52.0,91.0
+345,Neha Verma,Cyber Security,69.0,63.0
+346,Rohan Mehta,Data Science,86.0,76.0
+347,Sana Gupta,AI-ML,47.0,89.0
+348,Vivaan Singh,ECE,64.0,61.0
+349,Aarav Khan,IT,81.0,74.0
+350,Aditi Chauhan,CSE,98.0,87.0
+351,Ananya Kapoor,Cyber Security,59.0,100.0
+352,Arjun Sharma,Data Science,76.0,72.0
+353,Diya Rao,AI-ML,93.0,85.0
+354,Ishaan Joshi,ECE,54.0,98.0
+355,Kabir Verma,IT,71.0,70.0
+356,Meera Mehta,CSE,88.0,83.0
+357,Neha Gupta,Cyber Security,49.0,96.0
+358,Rohan Singh,Data Science,66.0,68.0
+359,Sana Khan,AI-ML,83.0,81.0
+360,Vivaan Chauhan,ECE,100.0,94.0
+361,Aarav Kapoor,IT,61.0,66.0
+362,Aditi Sharma,CSE,78.0,79.0
+363,Ananya Rao,Cyber Security,95.0,92.0
+364,Arjun Joshi,Data Science,56.0,64.0
+365,Diya Verma,AI-ML,73.0,77.0
+366,Ishaan Mehta,ECE,90.0,90.0
+367,Kabir Gupta,IT,51.0,62.0
+368,Meera Singh,CSE,68.0,75.0
+369,Neha Khan,Cyber Security,85.0,88.0
+370,Rohan Chauhan,Data Science,46.0,60.0
+371,Sana Kapoor,AI-ML,63.0,73.0
+372,Vivaan Sharma,ECE,80.0,86.0
+373,Aarav Rao,IT,97.0,99.0
+374,Aditi Joshi,CSE,58.0,71.0
+375,Ananya Verma,Cyber Security,75.0,84.0
+376,Arjun Mehta,Data Science,92.0,97.0
+377,Diya Gupta,AI-ML,53.0,69.0
+378,Ishaan Singh,ECE,70.0,82.0
+379,Kabir Khan,IT,87.0,95.0
+380,Meera Chauhan,CSE,48.0,67.0
+381,Neha Kapoor,Cyber Security,65.0,80.0
+382,Rohan Sharma,Data Science,82.0,93.0
+383,Sana Rao,AI-ML,99.0,65.0
+384,Vivaan Joshi,ECE,60.0,78.0
+385,Aarav Verma,IT,77.0,91.0
+386,Aditi Mehta,CSE,94.0,63.0
+387,Ananya Gupta,Cyber Security,55.0,76.0
+388,Arjun Singh,Data Science,72.0,89.0
+389,Diya Khan,AI-ML,89.0,61.0
+390,Ishaan Chauhan,ECE,50.0,74.0
+391,Kabir Kapoor,IT,67.0,87.0
+392,Meera Sharma,CSE,84.0,100.0
+393,Neha Rao,Cyber Security,45.0,72.0
+394,Rohan Joshi,Data Science,62.0,85.0
+395,Sana Verma,AI-ML,79.0,98.0
+396,Vivaan Mehta,ECE,96.0,70.0
+397,Aarav Gupta,IT,57.0,83.0
+398,Aditi Singh,CSE,74.0,96.0
+399,Ananya Khan,Cyber Security,91.0,68.0
+400,Arjun Chauhan,Data Science,52.0,81.0
+401,Diya Kapoor,AI-ML,69.0,94.0
+402,Ishaan Sharma,ECE,86.0,66.0
+403,Kabir Rao,IT,47.0,79.0
+404,Meera Joshi,CSE,64.0,92.0
+405,Neha Verma,Cyber Security,81.0,64.0
+406,Rohan Mehta,Data Science,98.0,77.0
+407,Sana Gupta,AI-ML,59.0,90.0
+408,Vivaan Singh,ECE,76.0,62.0
+409,Aarav Khan,IT,93.0,75.0
+410,Aditi Chauhan,CSE,54.0,88.0
+411,Ananya Kapoor,Cyber Security,71.0,60.0
+412,Arjun Sharma,Data Science,88.0,73.0
+413,Diya Rao,AI-ML,49.0,86.0
+414,Ishaan Joshi,ECE,66.0,99.0
+415,Kabir Verma,IT,83.0,71.0
+416,Meera Mehta,CSE,100.0,84.0
+417,Neha Gupta,Cyber Security,61.0,97.0
+418,Rohan Singh,Data Science,78.0,69.0
+419,Sana Khan,AI-ML,95.0,82.0
+420,Vivaan Chauhan,ECE,56.0,95.0
+421,Aarav Kapoor,IT,73.0,67.0
+422,Aditi Sharma,CSE,90.0,80.0
+423,Ananya Rao,Cyber Security,51.0,93.0
+424,Arjun Joshi,Data Science,68.0,65.0
+425,Diya Verma,AI-ML,85.0,78.0
+426,Ishaan Mehta,ECE,46.0,91.0
+427,Kabir Gupta,IT,63.0,63.0
+428,Meera Singh,CSE,80.0,76.0
+429,Neha Khan,Cyber Security,97.0,89.0
+430,Rohan Chauhan,Data Science,58.0,61.0
+431,Sana Kapoor,AI-ML,75.0,74.0
+432,Vivaan Sharma,ECE,92.0,87.0
+433,Aarav Rao,IT,53.0,100.0
+434,Aditi Joshi,CSE,70.0,72.0
+435,Ananya Verma,Cyber Security,87.0,85.0
+436,Arjun Mehta,Data Science,48.0,98.0
+437,Diya Gupta,AI-ML,65.0,70.0
+438,Ishaan Singh,ECE,82.0,83.0
+439,Kabir Khan,IT,99.0,96.0
+440,Meera Chauhan,CSE,60.0,68.0
+441,Neha Kapoor,Cyber Security,77.0,81.0
+442,Rohan Sharma,Data Science,94.0,94.0
+443,Sana Rao,AI-ML,55.0,66.0
+444,Vivaan Joshi,ECE,72.0,79.0
+445,Aarav Verma,IT,89.0,92.0
+446,Aditi Mehta,CSE,50.0,64.0
+447,Ananya Gupta,Cyber Security,67.0,77.0
+448,Arjun Singh,Data Science,84.0,90.0
+449,Diya Khan,AI-ML,45.0,62.0
+450,Ishaan Chauhan,ECE,62.0,75.0
+451,Kabir Kapoor,IT,79.0,88.0
+452,Meera Sharma,CSE,96.0,60.0
+453,Neha Rao,Cyber Security,57.0,73.0
+454,Rohan Joshi,Data Science,74.0,86.0
+455,Sana Verma,AI-ML,91.0,99.0
+456,Vivaan Mehta,ECE,52.0,71.0
+457,Aarav Gupta,IT,69.0,84.0
+458,Aditi Singh,CSE,86.0,97.0
+459,Ananya Khan,Cyber Security,47.0,69.0
+460,Arjun Chauhan,Data Science,64.0,82.0
+461,Diya Kapoor,AI-ML,81.0,95.0
+462,Ishaan Sharma,ECE,98.0,67.0
+463,Kabir Rao,IT,59.0,80.0
+464,Meera Joshi,CSE,76.0,93.0
+465,Neha Verma,Cyber Security,93.0,65.0
+466,Rohan Mehta,Data Science,54.0,78.0
+467,Sana Gupta,AI-ML,71.0,91.0
+468,Vivaan Singh,ECE,88.0,63.0
+469,Aarav Khan,IT,49.0,76.0
+470,Aditi Chauhan,CSE,66.0,89.0
+471,Ananya Kapoor,Cyber Security,83.0,61.0
+472,Arjun Sharma,Data Science,100.0,74.0
+473,Diya Rao,AI-ML,61.0,87.0
+474,Ishaan Joshi,ECE,78.0,100.0
+475,Kabir Verma,IT,95.0,72.0
+476,Meera Mehta,CSE,56.0,85.0
+477,Neha Gupta,Cyber Security,73.0,98.0
+478,Rohan Singh,Data Science,90.0,70.0
+479,Sana Khan,AI-ML,51.0,83.0
+480,Vivaan Chauhan,ECE,68.0,96.0
+481,Aarav Kapoor,IT,85.0,68.0
+482,Aditi Sharma,CSE,46.0,81.0
+483,Ananya Rao,Cyber Security,63.0,94.0
+484,Arjun Joshi,Data Science,80.0,66.0
+485,Diya Verma,AI-ML,97.0,79.0
+486,Ishaan Mehta,ECE,58.0,92.0
+487,Kabir Gupta,IT,75.0,64.0
+488,Meera Singh,CSE,92.0,77.0
+489,Neha Khan,Cyber Security,53.0,90.0
+490,Rohan Chauhan,Data Science,70.0,62.0
+491,Sana Kapoor,AI-ML,87.0,75.0
+492,Vivaan Sharma,ECE,48.0,88.0
+493,Aarav Rao,IT,65.0,60.0
+494,Aditi Joshi,CSE,82.0,73.0
+495,Ananya Verma,Cyber Security,99.0,86.0
+496,Arjun Mehta,Data Science,60.0,99.0
+497,Diya Gupta,AI-ML,77.0,71.0
+498,Ishaan Singh,ECE,94.0,84.0
+499,Kabir Khan,IT,55.0,97.0
+500,Meera Chauhan,CSE,72.0,69.0
+501,Neha Kapoor,Cyber Security,89.0,82.0
+502,Rohan Sharma,Data Science,50.0,95.0
+503,Sana Rao,AI-ML,67.0,67.0
+504,Vivaan Joshi,ECE,84.0,80.0
+505,Aarav Verma,IT,45.0,93.0
+506,Aditi Mehta,CSE,62.0,65.0
+507,Ananya Gupta,Cyber Security,79.0,78.0
+508,Arjun Singh,Data Science,96.0,91.0
+509,Diya Khan,AI-ML,57.0,63.0
+510,Ishaan Chauhan,ECE,74.0,76.0
+511,Kabir Kapoor,IT,91.0,89.0
+512,Meera Sharma,CSE,52.0,61.0
+513,Neha Rao,Cyber Security,69.0,74.0
+514,Rohan Joshi,Data Science,86.0,87.0
+515,Sana Verma,AI-ML,47.0,100.0
+516,Vivaan Mehta,ECE,64.0,72.0
+517,Aarav Gupta,IT,81.0,85.0
+518,Aditi Singh,CSE,98.0,98.0
+519,Ananya Khan,Cyber Security,59.0,70.0
+520,Arjun Chauhan,Data Science,76.0,83.0
+521,Diya Kapoor,AI-ML,93.0,96.0
+522,Ishaan Sharma,ECE,54.0,68.0
+523,Kabir Rao,IT,71.0,81.0
+524,Meera Joshi,CSE,88.0,94.0
+525,Neha Verma,Cyber Security,49.0,66.0
+526,Rohan Mehta,Data Science,66.0,79.0
+527,Sana Gupta,AI-ML,83.0,92.0
+528,Vivaan Singh,ECE,100.0,64.0
+529,Aarav Khan,IT,61.0,77.0
+530,Aditi Chauhan,CSE,78.0,90.0
+531,Ananya Kapoor,Cyber Security,95.0,62.0
+532,Arjun Sharma,Data Science,56.0,75.0
+533,Diya Rao,AI-ML,73.0,88.0
+534,Ishaan Joshi,ECE,90.0,60.0
+535,Kabir Verma,IT,51.0,73.0
+536,Meera Mehta,CSE,68.0,86.0
+537,Neha Gupta,Cyber Security,85.0,99.0
+538,Rohan Singh,Data Science,46.0,71.0
+539,Sana Khan,AI-ML,63.0,84.0
+540,Vivaan Chauhan,ECE,80.0,97.0
+541,Aarav Kapoor,IT,97.0,69.0
+542,Aditi Sharma,CSE,58.0,82.0
+543,Ananya Rao,Cyber Security,75.0,95.0
+544,Arjun Joshi,Data Science,92.0,67.0
+545,Diya Verma,AI-ML,53.0,80.0
+546,Ishaan Mehta,ECE,70.0,93.0
+547,Kabir Gupta,IT,87.0,65.0
+548,Meera Singh,CSE,48.0,78.0
+549,Neha Khan,Cyber Security,65.0,91.0
+550,Rohan Chauhan,Data Science,82.0,63.0
+551,Sana Kapoor,AI-ML,99.0,76.0
+552,Vivaan Sharma,ECE,60.0,89.0
+553,Aarav Rao,IT,77.0,61.0
+554,Aditi Joshi,CSE,94.0,74.0
+555,Ananya Verma,Cyber Security,55.0,87.0
+556,Arjun Mehta,Data Science,72.0,100.0
+557,Diya Gupta,AI-ML,89.0,72.0
+558,Ishaan Singh,ECE,50.0,85.0
+559,Kabir Khan,IT,67.0,98.0
+560,Meera Chauhan,CSE,84.0,70.0
+561,Neha Kapoor,Cyber Security,45.0,83.0
+562,Rohan Sharma,Data Science,62.0,96.0
+563,Sana Rao,AI-ML,79.0,68.0
+564,Vivaan Joshi,ECE,96.0,81.0
+565,Aarav Verma,IT,57.0,94.0
+566,Aditi Mehta,CSE,74.0,66.0
+567,Ananya Gupta,Cyber Security,91.0,79.0
+568,Arjun Singh,Data Science,52.0,92.0
+569,Diya Khan,AI-ML,69.0,64.0
+570,Ishaan Chauhan,ECE,86.0,77.0
+571,Kabir Kapoor,IT,47.0,90.0
+572,Meera Sharma,CSE,64.0,62.0
+573,Neha Rao,Cyber Security,81.0,75.0
+574,Rohan Joshi,Data Science,98.0,88.0
+575,Sana Verma,AI-ML,59.0,60.0
+576,Vivaan Mehta,ECE,76.0,73.0
+577,Aarav Gupta,IT,93.0,86.0
+578,Aditi Singh,CSE,54.0,99.0
+579,Ananya Khan,Cyber Security,71.0,71.0
+580,Arjun Chauhan,Data Science,88.0,84.0
+581,Diya Kapoor,AI-ML,49.0,97.0
+582,Ishaan Sharma,ECE,66.0,69.0
+583,Kabir Rao,IT,83.0,82.0
+584,Meera Joshi,CSE,100.0,95.0
+585,Neha Verma,Cyber Security,61.0,67.0
+586,Rohan Mehta,Data Science,78.0,80.0
+587,Sana Gupta,AI-ML,95.0,93.0
+588,Vivaan Singh,ECE,56.0,65.0
+589,Aarav Khan,IT,73.0,78.0
+590,Aditi Chauhan,CSE,90.0,91.0
+591,Ananya Kapoor,Cyber Security,51.0,63.0
+592,Arjun Sharma,Data Science,68.0,76.0
+593,Diya Rao,AI-ML,85.0,89.0
+594,Ishaan Joshi,ECE,46.0,61.0
+595,Kabir Verma,IT,63.0,74.0
+596,Meera Mehta,CSE,80.0,87.0
+597,Neha Gupta,Cyber Security,97.0,100.0
+598,Rohan Singh,Data Science,58.0,72.0
+599,Sana Khan,AI-ML,75.0,85.0
+600,Vivaan Chauhan,ECE,92.0,98.0
+601,Aarav Kapoor,IT,53.0,70.0
+602,Aditi Sharma,CSE,70.0,83.0
+603,Ananya Rao,Cyber Security,87.0,96.0
+604,Arjun Joshi,Data Science,48.0,68.0
+605,Diya Verma,AI-ML,65.0,81.0
+606,Ishaan Mehta,ECE,82.0,94.0
+607,Kabir Gupta,IT,99.0,66.0
+608,Meera Singh,CSE,60.0,79.0
+609,Neha Khan,Cyber Security,77.0,92.0
+610,Rohan Chauhan,Data Science,94.0,64.0
+611,Sana Kapoor,AI-ML,55.0,77.0
+612,Vivaan Sharma,ECE,72.0,90.0
+613,Aarav Rao,IT,89.0,62.0
+614,Aditi Joshi,CSE,50.0,75.0
+615,Ananya Verma,Cyber Security,67.0,88.0
+616,Arjun Mehta,Data Science,84.0,60.0
+617,Diya Gupta,AI-ML,45.0,73.0
+618,Ishaan Singh,ECE,62.0,86.0
+619,Kabir Khan,IT,79.0,99.0
+620,Meera Chauhan,CSE,96.0,71.0
+621,Neha Kapoor,Cyber Security,57.0,84.0
+622,Rohan Sharma,Data Science,74.0,97.0
+623,Sana Rao,AI-ML,91.0,69.0
+624,Vivaan Joshi,ECE,52.0,82.0
+625,Aarav Verma,IT,69.0,95.0
+626,Aditi Mehta,CSE,86.0,67.0
+627,Ananya Gupta,Cyber Security,47.0,80.0
+628,Arjun Singh,Data Science,64.0,93.0
+629,Diya Khan,AI-ML,81.0,65.0
+630,Ishaan Chauhan,ECE,98.0,78.0
+631,Kabir Kapoor,IT,59.0,91.0
+632,Meera Sharma,CSE,76.0,63.0
+633,Neha Rao,Cyber Security,93.0,76.0
+634,Rohan Joshi,Data Science,54.0,89.0
+635,Sana Verma,AI-ML,71.0,61.0
+636,Vivaan Mehta,ECE,88.0,74.0
+637,Aarav Gupta,IT,49.0,87.0
+638,Aditi Singh,CSE,66.0,100.0
+639,Ananya Khan,Cyber Security,83.0,72.0
+640,Arjun Chauhan,Data Science,100.0,85.0
+641,Diya Kapoor,AI-ML,61.0,98.0
+642,Ishaan Sharma,ECE,78.0,70.0
+643,Kabir Rao,IT,95.0,83.0
+644,Meera Joshi,CSE,56.0,96.0
+645,Neha Verma,Cyber Security,73.0,68.0
+646,Rohan Mehta,Data Science,90.0,81.0
+647,Sana Gupta,AI-ML,51.0,94.0
+648,Vivaan Singh,ECE,68.0,66.0
+649,Aarav Khan,IT,85.0,79.0
+650,Aditi Chauhan,CSE,46.0,92.0
+651,Ananya Kapoor,Cyber Security,63.0,64.0
+652,Arjun Sharma,Data Science,80.0,77.0
+653,Diya Rao,AI-ML,97.0,90.0
+654,Ishaan Joshi,ECE,58.0,62.0
+655,Kabir Verma,IT,75.0,75.0
+656,Meera Mehta,CSE,92.0,88.0
+657,Neha Gupta,Cyber Security,53.0,60.0
+658,Rohan Singh,Data Science,70.0,73.0
+659,Sana Khan,AI-ML,87.0,86.0
+660,Vivaan Chauhan,ECE,48.0,99.0
+661,Aarav Kapoor,IT,65.0,71.0
+662,Aditi Sharma,CSE,82.0,84.0
+663,Ananya Rao,Cyber Security,99.0,97.0
+664,Arjun Joshi,Data Science,60.0,69.0
+665,Diya Verma,AI-ML,77.0,82.0
+666,Ishaan Mehta,ECE,94.0,95.0
+667,Kabir Gupta,IT,55.0,67.0
+668,Meera Singh,CSE,72.0,80.0
+669,Neha Khan,Cyber Security,89.0,93.0
+670,Rohan Chauhan,Data Science,50.0,65.0
+671,Sana Kapoor,AI-ML,67.0,78.0
+672,Vivaan Sharma,ECE,84.0,91.0
+673,Aarav Rao,IT,45.0,63.0
+674,Aditi Joshi,CSE,62.0,76.0
+675,Ananya Verma,Cyber Security,79.0,89.0
+676,Arjun Mehta,Data Science,96.0,61.0
+677,Diya Gupta,AI-ML,57.0,74.0
+678,Ishaan Singh,ECE,74.0,87.0
+679,Kabir Khan,IT,91.0,100.0
+680,Meera Chauhan,CSE,52.0,72.0
+681,Neha Kapoor,Cyber Security,69.0,85.0
+682,Rohan Sharma,Data Science,86.0,98.0
+683,Sana Rao,AI-ML,47.0,70.0
+684,Vivaan Joshi,ECE,64.0,83.0
+685,Aarav Verma,IT,81.0,96.0
+686,Aditi Mehta,CSE,98.0,68.0
+687,Ananya Gupta,Cyber Security,59.0,81.0
+688,Arjun Singh,Data Science,76.0,94.0
+689,Diya Khan,AI-ML,93.0,66.0
+690,Ishaan Chauhan,ECE,54.0,79.0
+691,Kabir Kapoor,IT,71.0,92.0
+692,Meera Sharma,CSE,88.0,64.0
+693,Neha Rao,Cyber Security,49.0,77.0
+694,Rohan Joshi,Data Science,66.0,90.0
+695,Sana Verma,AI-ML,83.0,62.0
+696,Vivaan Mehta,ECE,100.0,75.0
+697,Aarav Gupta,IT,61.0,88.0
+698,Aditi Singh,CSE,78.0,60.0
+699,Ananya Khan,Cyber Security,95.0,73.0
+700,Arjun Chauhan,Data Science,56.0,86.0
+701,Diya Kapoor,AI-ML,73.0,99.0
+702,Ishaan Sharma,ECE,90.0,71.0
+703,Kabir Rao,IT,51.0,84.0
+704,Meera Joshi,CSE,68.0,97.0
+705,Neha Verma,Cyber Security,85.0,69.0
+706,Rohan Mehta,Data Science,46.0,82.0
+707,Sana Gupta,AI-ML,63.0,95.0
+708,Vivaan Singh,ECE,80.0,67.0
+709,Aarav Khan,IT,97.0,80.0
+710,Aditi Chauhan,CSE,58.0,93.0
+711,Ananya Kapoor,Cyber Security,75.0,65.0
+712,Arjun Sharma,Data Science,92.0,78.0
+713,Diya Rao,AI-ML,53.0,91.0
+714,Ishaan Joshi,ECE,70.0,63.0
+715,Kabir Verma,IT,87.0,76.0
+716,Meera Mehta,CSE,48.0,89.0
+717,Neha Gupta,Cyber Security,65.0,61.0
+718,Rohan Singh,Data Science,82.0,74.0
+719,Sana Khan,AI-ML,99.0,87.0
+720,Vivaan Chauhan,ECE,60.0,100.0
+721,Aarav Kapoor,IT,77.0,72.0
+722,Aditi Sharma,CSE,94.0,85.0
+723,Ananya Rao,Cyber Security,55.0,98.0
+724,Arjun Joshi,Data Science,72.0,70.0
+725,Diya Verma,AI-ML,89.0,83.0
+726,Ishaan Mehta,ECE,50.0,96.0
+727,Kabir Gupta,IT,67.0,68.0
+728,Meera Singh,CSE,84.0,81.0
+729,Neha Khan,Cyber Security,45.0,94.0
+730,Rohan Chauhan,Data Science,62.0,66.0
+731,Sana Kapoor,AI-ML,79.0,79.0
+732,Vivaan Sharma,ECE,96.0,92.0
+733,Aarav Rao,IT,57.0,64.0
+734,Aditi Joshi,CSE,74.0,77.0
+735,Ananya Verma,Cyber Security,91.0,90.0
+736,Arjun Mehta,Data Science,52.0,62.0
+737,Diya Gupta,AI-ML,69.0,75.0
+738,Ishaan Singh,ECE,86.0,88.0
+739,Kabir Khan,IT,47.0,60.0
+740,Meera Chauhan,CSE,64.0,73.0
+741,Neha Kapoor,Cyber Security,81.0,86.0
+742,Rohan Sharma,Data Science,98.0,99.0
+743,Sana Rao,AI-ML,59.0,71.0
+744,Vivaan Joshi,ECE,76.0,84.0
+745,Aarav Verma,IT,93.0,97.0
+746,Aditi Mehta,CSE,54.0,69.0
+747,Ananya Gupta,Cyber Security,71.0,82.0
+748,Arjun Singh,Data Science,88.0,95.0
+749,Diya Khan,AI-ML,49.0,67.0
+750,Ishaan Chauhan,ECE,66.0,80.0
+751,Kabir Kapoor,IT,83.0,93.0
+752,Meera Sharma,CSE,100.0,65.0
+753,Neha Rao,Cyber Security,61.0,78.0
+754,Rohan Joshi,Data Science,78.0,91.0
+755,Sana Verma,AI-ML,95.0,63.0
+756,Vivaan Mehta,ECE,56.0,76.0
+757,Aarav Gupta,IT,73.0,89.0
+758,Aditi Singh,CSE,90.0,61.0
+759,Ananya Khan,Cyber Security,51.0,74.0
+760,Arjun Chauhan,Data Science,68.0,87.0
+761,Diya Kapoor,AI-ML,85.0,100.0
+762,Ishaan Sharma,ECE,46.0,72.0
+763,Kabir Rao,IT,63.0,85.0
+764,Meera Joshi,CSE,80.0,98.0
+765,Neha Verma,Cyber Security,97.0,70.0
+766,Rohan Mehta,Data Science,58.0,83.0
+767,Sana Gupta,AI-ML,75.0,96.0
+768,Vivaan Singh,ECE,92.0,68.0
+769,Aarav Khan,IT,53.0,81.0
+770,Aditi Chauhan,CSE,70.0,94.0
+771,Ananya Kapoor,Cyber Security,87.0,66.0
+772,Arjun Sharma,Data Science,48.0,79.0
+773,Diya Rao,AI-ML,65.0,92.0
+774,Ishaan Joshi,ECE,82.0,64.0
+775,Kabir Verma,IT,99.0,77.0
+776,Meera Mehta,CSE,60.0,90.0
+777,Neha Gupta,Cyber Security,77.0,62.0
+778,Rohan Singh,Data Science,94.0,75.0
+779,Sana Khan,AI-ML,55.0,88.0
+780,Vivaan Chauhan,ECE,72.0,60.0
+781,Aarav Kapoor,IT,89.0,73.0
+782,Aditi Sharma,CSE,50.0,86.0
+783,Ananya Rao,Cyber Security,67.0,99.0
+784,Arjun Joshi,Data Science,84.0,71.0
+785,Diya Verma,AI-ML,45.0,84.0
+786,Ishaan Mehta,ECE,62.0,97.0
+787,Kabir Gupta,IT,79.0,69.0
+788,Meera Singh,CSE,96.0,82.0
+789,Neha Khan,Cyber Security,57.0,95.0
+790,Rohan Chauhan,Data Science,74.0,67.0
+791,Sana Kapoor,AI-ML,91.0,80.0
+792,Vivaan Sharma,ECE,52.0,93.0
+793,Aarav Rao,IT,69.0,65.0
+794,Aditi Joshi,CSE,86.0,78.0
+795,Ananya Verma,Cyber Security,47.0,91.0
+796,Arjun Mehta,Data Science,64.0,63.0
+797,Diya Gupta,AI-ML,81.0,76.0
+798,Ishaan Singh,ECE,98.0,89.0
+799,Kabir Khan,IT,59.0,61.0
+800,Meera Chauhan,CSE,76.0,74.0
+801,Neha Kapoor,Cyber Security,93.0,87.0
+802,Rohan Sharma,Data Science,54.0,100.0
+803,Sana Rao,AI-ML,71.0,72.0
+804,Vivaan Joshi,ECE,88.0,85.0
+805,Aarav Verma,IT,49.0,98.0
+806,Aditi Mehta,CSE,66.0,70.0
+807,Ananya Gupta,Cyber Security,83.0,83.0
+808,Arjun Singh,Data Science,100.0,96.0
+809,Diya Khan,AI-ML,61.0,68.0
+810,Ishaan Chauhan,ECE,78.0,81.0
+811,Kabir Kapoor,IT,95.0,94.0
+812,Meera Sharma,CSE,56.0,66.0
+813,Neha Rao,Cyber Security,73.0,79.0
+814,Rohan Joshi,Data Science,90.0,92.0
+815,Sana Verma,AI-ML,51.0,64.0
+816,Vivaan Mehta,ECE,68.0,77.0
+817,Aarav Gupta,IT,85.0,90.0
+818,Aditi Singh,CSE,46.0,62.0
+819,Ananya Khan,Cyber Security,63.0,75.0
+820,Arjun Chauhan,Data Science,80.0,88.0
+821,Diya Kapoor,AI-ML,97.0,60.0
+822,Ishaan Sharma,ECE,58.0,73.0
+823,Kabir Rao,IT,75.0,86.0
+824,Meera Joshi,CSE,92.0,99.0
+825,Neha Verma,Cyber Security,53.0,71.0
+826,Rohan Mehta,Data Science,70.0,84.0
+827,Sana Gupta,AI-ML,87.0,97.0
+828,Vivaan Singh,ECE,48.0,69.0
+829,Aarav Khan,IT,65.0,82.0
+830,Aditi Chauhan,CSE,82.0,95.0
+831,Ananya Kapoor,Cyber Security,99.0,67.0
+832,Arjun Sharma,Data Science,60.0,80.0
+833,Diya Rao,AI-ML,77.0,93.0
+834,Ishaan Joshi,ECE,94.0,65.0
+835,Kabir Verma,IT,55.0,78.0
+836,Meera Mehta,CSE,72.0,91.0
+837,Neha Gupta,Cyber Security,89.0,63.0
+838,Rohan Singh,Data Science,50.0,76.0
+839,Sana Khan,AI-ML,67.0,89.0
+840,Vivaan Chauhan,ECE,84.0,61.0
+841,Aarav Kapoor,IT,45.0,74.0
+842,Aditi Sharma,CSE,62.0,87.0
+843,Ananya Rao,Cyber Security,79.0,100.0
+844,Arjun Joshi,Data Science,96.0,72.0
+845,Diya Verma,AI-ML,57.0,85.0
+846,Ishaan Mehta,ECE,74.0,98.0
+847,Kabir Gupta,IT,91.0,70.0
+848,Meera Singh,CSE,52.0,83.0
+849,Neha Khan,Cyber Security,69.0,96.0
+850,Rohan Chauhan,Data Science,86.0,68.0
+851,Sana Kapoor,AI-ML,47.0,81.0
+852,Vivaan Sharma,ECE,64.0,94.0
+853,Aarav Rao,IT,81.0,66.0
+854,Aditi Joshi,CSE,98.0,79.0
+855,Ananya Verma,Cyber Security,59.0,92.0
+856,Arjun Mehta,Data Science,76.0,64.0
+857,Diya Gupta,AI-ML,93.0,77.0
+858,Ishaan Singh,ECE,54.0,90.0
+859,Kabir Khan,IT,71.0,62.0
+860,Meera Chauhan,CSE,88.0,75.0
+861,Neha Kapoor,Cyber Security,49.0,88.0
+862,Rohan Sharma,Data Science,66.0,60.0
+863,Sana Rao,AI-ML,83.0,73.0
+864,Vivaan Joshi,ECE,100.0,86.0
+865,Aarav Verma,IT,61.0,99.0
+866,Aditi Mehta,CSE,78.0,71.0
+867,Ananya Gupta,Cyber Security,95.0,84.0
+868,Arjun Singh,Data Science,56.0,97.0
+869,Diya Khan,AI-ML,73.0,69.0
+870,Ishaan Chauhan,ECE,90.0,82.0
+871,Kabir Kapoor,IT,51.0,95.0
+872,Meera Sharma,CSE,68.0,67.0
+873,Neha Rao,Cyber Security,85.0,80.0
+874,Rohan Joshi,Data Science,46.0,93.0
+875,Sana Verma,AI-ML,63.0,65.0
+876,Vivaan Mehta,ECE,80.0,78.0
+877,Aarav Gupta,IT,97.0,91.0
+878,Aditi Singh,CSE,58.0,63.0
+879,Ananya Khan,Cyber Security,75.0,76.0
+880,Arjun Chauhan,Data Science,92.0,89.0
+881,Diya Kapoor,AI-ML,53.0,61.0
+882,Ishaan Sharma,ECE,70.0,74.0
+883,Kabir Rao,IT,87.0,87.0
+884,Meera Joshi,CSE,48.0,100.0
+885,Neha Verma,Cyber Security,65.0,72.0
+886,Rohan Mehta,Data Science,82.0,85.0
+887,Sana Gupta,AI-ML,99.0,98.0
+888,Vivaan Singh,ECE,60.0,70.0
+889,Aarav Khan,IT,77.0,83.0
+890,Aditi Chauhan,CSE,94.0,96.0
+891,Ananya Kapoor,Cyber Security,55.0,68.0
+892,Arjun Sharma,Data Science,72.0,81.0
+893,Diya Rao,AI-ML,89.0,94.0
+894,Ishaan Joshi,ECE,50.0,66.0
+895,Kabir Verma,IT,67.0,79.0
+896,Meera Mehta,CSE,84.0,92.0
+897,Neha Gupta,Cyber Security,45.0,64.0
+898,Rohan Singh,Data Science,62.0,77.0
+899,Sana Khan,AI-ML,79.0,90.0
+900,Vivaan Chauhan,ECE,96.0,62.0
+901,Aarav Kapoor,IT,57.0,75.0
+902,Aditi Sharma,CSE,74.0,88.0
+903,Ananya Rao,Cyber Security,91.0,60.0
+904,Arjun Joshi,Data Science,52.0,73.0
+905,Diya Verma,AI-ML,69.0,86.0
+906,Ishaan Mehta,ECE,86.0,99.0
+907,Kabir Gupta,IT,47.0,71.0
+908,Meera Singh,CSE,64.0,84.0
+909,Neha Khan,Cyber Security,81.0,97.0
+910,Rohan Chauhan,Data Science,98.0,69.0
+911,Sana Kapoor,AI-ML,59.0,82.0
+912,Vivaan Sharma,ECE,76.0,95.0
+913,Aarav Rao,IT,93.0,67.0
+914,Aditi Joshi,CSE,54.0,80.0
+915,Ananya Verma,Cyber Security,71.0,93.0
+916,Arjun Mehta,Data Science,88.0,65.0
+917,Diya Gupta,AI-ML,49.0,78.0
+918,Ishaan Singh,ECE,66.0,91.0
+919,Kabir Khan,IT,83.0,63.0
+920,Meera Chauhan,CSE,100.0,76.0
+921,Neha Kapoor,Cyber Security,61.0,89.0
+922,Rohan Sharma,Data Science,78.0,61.0
+923,Sana Rao,AI-ML,95.0,74.0
+924,Vivaan Joshi,ECE,56.0,87.0
+925,Aarav Verma,IT,73.0,100.0
+926,Aditi Mehta,CSE,90.0,72.0
+927,Ananya Gupta,Cyber Security,51.0,85.0
+928,Arjun Singh,Data Science,68.0,98.0
+929,Diya Khan,AI-ML,85.0,70.0
+930,Ishaan Chauhan,ECE,46.0,83.0
+931,Kabir Kapoor,IT,63.0,96.0
+932,Meera Sharma,CSE,80.0,68.0
+933,Neha Rao,Cyber Security,97.0,81.0
+934,Rohan Joshi,Data Science,58.0,94.0
+935,Sana Verma,AI-ML,75.0,66.0
+936,Vivaan Mehta,ECE,92.0,79.0
+937,Aarav Gupta,IT,53.0,92.0
+938,Aditi Singh,CSE,70.0,64.0
+939,Ananya Khan,Cyber Security,87.0,77.0
+940,Arjun Chauhan,Data Science,48.0,90.0
+941,Diya Kapoor,AI-ML,65.0,62.0
+942,Ishaan Sharma,ECE,82.0,75.0
+943,Kabir Rao,IT,99.0,88.0
+944,Meera Joshi,CSE,60.0,60.0
+945,Neha Verma,Cyber Security,77.0,73.0
+946,Rohan Mehta,Data Science,94.0,86.0
+947,Sana Gupta,AI-ML,55.0,99.0
+948,Vivaan Singh,ECE,72.0,71.0
+949,Aarav Khan,IT,89.0,84.0
+950,Aditi Chauhan,CSE,50.0,97.0
+951,Ananya Kapoor,Cyber Security,67.0,69.0
+952,Arjun Sharma,Data Science,84.0,82.0
+953,Diya Rao,AI-ML,45.0,95.0
+954,Ishaan Joshi,ECE,62.0,67.0
+955,Kabir Verma,IT,79.0,80.0
+956,Meera Mehta,CSE,96.0,93.0
+957,Neha Gupta,Cyber Security,57.0,65.0
+958,Rohan Singh,Data Science,74.0,78.0
+959,Sana Khan,AI-ML,91.0,91.0
+960,Vivaan Chauhan,ECE,52.0,63.0
+961,Aarav Kapoor,IT,69.0,76.0
+962,Aditi Sharma,CSE,86.0,89.0
+963,Ananya Rao,Cyber Security,47.0,61.0
+964,Arjun Joshi,Data Science,64.0,74.0
+965,Diya Verma,AI-ML,81.0,87.0
+966,Ishaan Mehta,ECE,98.0,100.0
+967,Kabir Gupta,IT,59.0,72.0
+968,Meera Singh,CSE,76.0,85.0
+969,Neha Khan,Cyber Security,93.0,98.0
+970,Rohan Chauhan,Data Science,54.0,70.0
+971,Sana Kapoor,AI-ML,71.0,83.0
+972,Vivaan Sharma,ECE,88.0,96.0
+973,Aarav Rao,IT,49.0,68.0
+974,Aditi Joshi,CSE,66.0,81.0
+975,Ananya Verma,Cyber Security,83.0,94.0
+976,Arjun Mehta,Data Science,100.0,66.0
+977,Diya Gupta,AI-ML,61.0,79.0
+978,Ishaan Singh,ECE,78.0,92.0
+979,Kabir Khan,IT,95.0,64.0
+980,Meera Chauhan,CSE,56.0,77.0
+981,Neha Kapoor,Cyber Security,73.0,90.0
+982,Rohan Sharma,Data Science,90.0,62.0
+983,Sana Rao,AI-ML,51.0,75.0
+984,Vivaan Joshi,ECE,68.0,88.0
+985,Aarav Verma,IT,85.0,60.0
+986,Aditi Mehta,CSE,46.0,73.0
+987,Ananya Gupta,Cyber Security,63.0,86.0
+988,Arjun Singh,Data Science,80.0,99.0
+989,Diya Khan,AI-ML,97.0,71.0
+990,Ishaan Chauhan,ECE,58.0,84.0
+991,Kabir Kapoor,IT,75.0,97.0
+992,Meera Sharma,CSE,92.0,69.0
+993,Neha Rao,Cyber Security,53.0,82.0
+994,Rohan Joshi,Data Science,70.0,95.0
+995,Sana Verma,AI-ML,87.0,67.0
+996,Vivaan Mehta,ECE,48.0,80.0
+997,Aarav Gupta,IT,65.0,93.0
+998,Aditi Singh,CSE,82.0,65.0
+999,Ananya Khan,Cyber Security,99.0,78.0
+1000,Arjun Chauhan,Data Science,60.0,91.0

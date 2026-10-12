@@ -1,0 +1,26 @@
+KERNELDB PHASE 2 — QUICK START (VS CODE / WINDOWS)
+
+1. Install JDK 21 and make sure java -version shows 21.
+2. Make sure mvn -version works. If Maven says 3.6.16, verify the exact version; Apache's official 3.6 series release was 3.6.3. Maven 3.9.x is recommended.
+3. Install VS Code extensions: Extension Pack for Java + Maven for Java.
+4. Extract KernelDB_Phase2.zip.
+5. In VS Code choose File -> Open Folder -> KernelDB_Phase2 (the folder containing pom.xml).
+6. Open Terminal -> New Terminal. Run:
+
+   mvn clean javafx:run
+
+Maven downloads JavaFX dependencies automatically. A separate JavaFX SDK download is not required for this Maven setup. Internet is needed during the first dependency download.
+
+FIRST TEST:
+- Click Load Sample CSV (1,000 students).
+- Try Find by ID / Insert Record / Update / Delete.
+- Click Run 4 Worker Threads.
+- Click Run I/O Benchmark.
+- Click Export CSV to create a file you can view in Excel or Notepad.
+
+DATA:
+- data/students_sample.csv = human-readable sample data.
+- data/students.db = custom binary database created at runtime.
+- Export CSV to inspect current records; do not edit students.db in a text editor.
+
+If `mvn` isn't recognized, Maven's bin directory needs to be added to PATH. If JavaFX cannot be resolved, confirm you opened the project folder with pom.xml and run `mvn -U clean javafx:run`.
