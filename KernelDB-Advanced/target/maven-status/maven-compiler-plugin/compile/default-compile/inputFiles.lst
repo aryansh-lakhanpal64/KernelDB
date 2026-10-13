@@ -1,0 +1,11 @@
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\concurrency\FairnessExperiment.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\core\KernelDatabase.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\core\TransactionResult.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\MainApp.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\model\Course.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\model\DatabaseState.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\model\Enrollment.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\model\JoinedEnrollment.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\model\Student.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\storage\PageBufferManager.java
+C:\Users\91787\Documents\KernelDB-Advanced\src\main\java\com\kerneldb\storage\StorageManager.java
